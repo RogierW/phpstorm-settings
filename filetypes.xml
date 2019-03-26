@@ -21,6 +21,7 @@
       <mapping pattern="componentWithQuotelessAttribute" type="PLAIN_TEXT" />
       <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
       <mapping pattern="Exceptions" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
