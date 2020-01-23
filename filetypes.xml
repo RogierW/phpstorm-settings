@@ -4,6 +4,7 @@
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
       <mapping pattern="ForgeControntroller" type="PLAIN_TEXT" />
       <mapping pattern="OrderStatus" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="partials" type="PLAIN_TEXT" />
       <mapping pattern="namespacedView1" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="PostColumns.php" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
       <mapping pattern="new BackupDisk" type="PLAIN_TEXT" />
       <mapping pattern="UserResource" type="PLAIN_TEXT" />
