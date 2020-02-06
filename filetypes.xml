@@ -10,6 +10,7 @@
       <mapping pattern="namespacedView1" type="PLAIN_TEXT" />
       <mapping pattern="partials" type="PLAIN_TEXT" />
       <mapping pattern="PostColumns.php" type="PLAIN_TEXT" />
+      <mapping pattern="csr" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
