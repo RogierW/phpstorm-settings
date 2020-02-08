@@ -30,6 +30,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <removed_mapping pattern="foo" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
