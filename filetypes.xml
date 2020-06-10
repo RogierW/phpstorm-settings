@@ -7,6 +7,7 @@
       <mapping pattern="a" type="PHP" />
       <mapping pattern="BalieAuth" type="PLAIN_TEXT" />
       <mapping pattern="kcert" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ForgeControntroller" type="PLAIN_TEXT" />
       <mapping pattern="csr" type="PLAIN_TEXT" />
       <mapping pattern="OrderStatus" type="PLAIN_TEXT" />
