@@ -16,7 +16,6 @@
       <mapping pattern="csr" type="PLAIN_TEXT" />
       <mapping pattern="views" type="PLAIN_TEXT" />
       <mapping pattern="componentWithSpaceshipOperatorInAttribute.blade.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="componentWithUnescapedVariable" type="PLAIN_TEXT" />
       <mapping pattern="cert" type="PLAIN_TEXT" />
       <mapping pattern="FuzzyFilter" type="PLAIN_TEXT" />
